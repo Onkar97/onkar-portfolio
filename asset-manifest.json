@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/onkar-portfolio/static/css/main.1edfde07.css",
+    "main.js": "/onkar-portfolio/static/js/main.7c722442.js",
+    "static/js/453.65e89ab1.chunk.js": "/onkar-portfolio/static/js/453.65e89ab1.chunk.js",
+    "static/media/Profile_Image.jpg": "/onkar-portfolio/static/media/Profile_Image.e56afa634379490d8b5f.jpg",
+    "index.html": "/onkar-portfolio/index.html",
+    "main.1edfde07.css.map": "/onkar-portfolio/static/css/main.1edfde07.css.map",
+    "main.7c722442.js.map": "/onkar-portfolio/static/js/main.7c722442.js.map",
+    "453.65e89ab1.chunk.js.map": "/onkar-portfolio/static/js/453.65e89ab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1edfde07.css",
+    "static/js/main.7c722442.js"
+  ]
+}
