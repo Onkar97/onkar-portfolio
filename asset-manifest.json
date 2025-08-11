@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/onkar-portfolio/static/css/main.1edfde07.css",
-    "main.js": "/onkar-portfolio/static/js/main.7c722442.js",
-    "static/js/453.65e89ab1.chunk.js": "/onkar-portfolio/static/js/453.65e89ab1.chunk.js",
+    "main.css": "/onkar-portfolio/static/css/main.8297a420.css",
+    "main.js": "/onkar-portfolio/static/js/main.2a2fb758.js",
+    "static/media/img7.png": "/onkar-portfolio/static/media/img7.7f3bc8f2145d1050a389.png",
+    "static/media/img3.png": "/onkar-portfolio/static/media/img3.c710e5ce3f6367023a1e.png",
+    "static/media/img1.png": "/onkar-portfolio/static/media/img1.8a2475ef1fc974203dd0.png",
+    "static/media/img6.png": "/onkar-portfolio/static/media/img6.b5a6d512a45043d4105f.png",
     "static/media/Profile_Image.jpg": "/onkar-portfolio/static/media/Profile_Image.e56afa634379490d8b5f.jpg",
+    "static/media/img4.png": "/onkar-portfolio/static/media/img4.db721f6485d2f03f615f.png",
+    "static/media/img5.png": "/onkar-portfolio/static/media/img5.7fe8ecffd80becbd6cdb.png",
+    "static/media/img2.png": "/onkar-portfolio/static/media/img2.66f73b9915e40beac41e.png",
     "index.html": "/onkar-portfolio/index.html",
-    "main.1edfde07.css.map": "/onkar-portfolio/static/css/main.1edfde07.css.map",
-    "main.7c722442.js.map": "/onkar-portfolio/static/js/main.7c722442.js.map",
-    "453.65e89ab1.chunk.js.map": "/onkar-portfolio/static/js/453.65e89ab1.chunk.js.map"
+    "main.8297a420.css.map": "/onkar-portfolio/static/css/main.8297a420.css.map",
+    "main.2a2fb758.js.map": "/onkar-portfolio/static/js/main.2a2fb758.js.map"
   },
   "entrypoints": [
-    "static/css/main.1edfde07.css",
-    "static/js/main.7c722442.js"
+    "static/css/main.8297a420.css",
+    "static/js/main.2a2fb758.js"
   ]
 }
