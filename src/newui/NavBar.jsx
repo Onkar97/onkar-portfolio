@@ -21,7 +21,7 @@ export default function NavBar() {
   }, []);
 
   return (
-    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all ${scrolled ? "backdrop-blur bg-black/70 shadow-lg" : "bg-transparent"}`}>
+    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all ${scrolled ? "backdrop-blur bg-black/70 shadow-lg" : "bg-black/90"}`}>
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <a href="https://onkar97.github.io/onkar-portfolio/" className="text-xl font-extrabold tracking-tight">
           <span className="bg-gradient-to-r from-indigo-400 via-sky-400 to-cyan-300 bg-clip-text text-transparent">Onkar</span>{" "}

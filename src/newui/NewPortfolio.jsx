@@ -4,6 +4,7 @@ import Hero from "./Hero";
 import SectionShell from "./SectionShell";
 import Footer from "./Footer";
 import Contact from "./Contact";
+import Education from "./Education";
 
 // Reuse your existing content components
 import About from "../components/About";
@@ -18,22 +19,25 @@ export default function NewPortfolio() {
       <NavBar />
       <main>
         <Hero />
-        <SectionShell id="about" title="About Me">
+        <SectionShell id="about" title="About Me" subtitle="Profile and career overview">
           <About />
         </SectionShell>
-        <SectionShell id="skills" title="Skills" subtitle="Tech I use frequently">
+        <SectionShell id="education" title="Education" subtitle="Academic background & coursework">
+          <Education />
+        </SectionShell>
+        <SectionShell id="skills" title="Skills" subtitle="Core technologies and tooling">
           <SkillsMatrix />
         </SectionShell>
-        <SectionShell id="work" title="Work Experience">
+        <SectionShell id="work" title="Work Experience" subtitle="Professional experience and impact">
           <WorkExperience />
         </SectionShell>
-        <SectionShell id="internships" title="Internships">
+        <SectionShell id="internships" title="Internships" subtitle="Applied industry experience">
           <Internships />
         </SectionShell>
-        <SectionShell id="projects" title="Projects" subtitle="Selected work I’m proud of">
+        <SectionShell id="projects" title="Projects" subtitle="Selected projects and case studies">
           <ProjectsGrid />
         </SectionShell>
-        <SectionShell id="contact" title="Contact">
+        <SectionShell id="contact" title="Contact" subtitle="Let's connect">
           <Contact />
         </SectionShell>
       </main>

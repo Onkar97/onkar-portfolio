@@ -3,7 +3,6 @@ import React from "react";
 export default function WorkExperience() {
   return (
     <section>
-                <h2 className="text-2xl font-semibold mb-6">Work Experience</h2>
                 <div className="space-y-6">
                   <div className="bg-gray-800 p-6 rounded-lg shadow-lg">
                     <h3 className="font-bold text-lg text-white">Software Analyst – Yardi Software India Pvt. Ltd.</h3>

@@ -17,8 +17,8 @@ export default function Contact() {
     },
     {
       label: "LinkedIn",
-      value: "linkedin.com/in/onkar97",
-      href: "https://www.linkedin.com/in/onkar97",
+      value: "linkedin.com/in/onkar-bhujbal",
+      href: "https://www.linkedin.com/in/onkar-bhujbal-385283242/",
       Icon: FiLinkedin,
     },
   ];
