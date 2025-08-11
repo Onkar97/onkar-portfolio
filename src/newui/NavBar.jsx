@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
-import { FiMenu as Menu, FiX as X, FiUser, FiCpu, FiBriefcase, FiBookOpen, FiLayers, FiMail } from "react-icons/fi";
+import { FiMenu as Menu, FiX as X, FiUser, FiCpu, FiBriefcase, FiBookOpen, FiLayers, FiMail, FiAward } from "react-icons/fi";
 
 const links = [
   { href: "#about", label: "About", Icon: FiUser },
+  {href: "#education", label: "Education", Icon: FiAward},
   { href: "#skills", label: "Skills", Icon: FiCpu },
   { href: "#work", label: "Experience", Icon: FiBriefcase },
   { href: "#internships", label: "Internships", Icon: FiBookOpen },
