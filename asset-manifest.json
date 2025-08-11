@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/onkar-portfolio/static/css/main.fb1ca5ac.css",
-    "main.js": "/onkar-portfolio/static/js/main.ee3bf0b1.js",
+    "main.js": "/onkar-portfolio/static/js/main.90337535.js",
     "static/media/img7.png": "/onkar-portfolio/static/media/img7.7f3bc8f2145d1050a389.png",
     "static/media/img3.png": "/onkar-portfolio/static/media/img3.c710e5ce3f6367023a1e.png",
     "static/media/img1.png": "/onkar-portfolio/static/media/img1.8a2475ef1fc974203dd0.png",
@@ -12,10 +12,10 @@
     "static/media/img2.png": "/onkar-portfolio/static/media/img2.66f73b9915e40beac41e.png",
     "index.html": "/onkar-portfolio/index.html",
     "main.fb1ca5ac.css.map": "/onkar-portfolio/static/css/main.fb1ca5ac.css.map",
-    "main.ee3bf0b1.js.map": "/onkar-portfolio/static/js/main.ee3bf0b1.js.map"
+    "main.90337535.js.map": "/onkar-portfolio/static/js/main.90337535.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1ca5ac.css",
-    "static/js/main.ee3bf0b1.js"
+    "static/js/main.90337535.js"
   ]
 }
