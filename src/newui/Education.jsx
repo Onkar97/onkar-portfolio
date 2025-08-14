@@ -29,7 +29,16 @@ const schools = [
     degree: "B.E. in Information Technology",
     period: "Aug 2017 – May 2020",
     gpa: "3.8",
-    coursework: [],
+    coursework: [
+      "Problem Solving and Object Oriented Programming System",
+      "Data Science and Big Data Analytics",
+      "Machine Learning and Applications",
+      "Operating Systems",
+      "Design and Analysis of Algorithms",
+      "Software Engineering and Project Management",
+      "Database Management Systems",
+      "Cloud Computing"
+    ],
   },
 ];
 
