@@ -3,15 +3,15 @@ import NavBar from "./NavBar";
 import Hero from "./Hero";
 import SectionShell from "./SectionShell";
 import Footer from "./Footer";
-import Contact from "./Contact";
 import Education from "./Education";
 
 // Reuse your existing content components
 import About from "../components/About";
 import SkillsMatrix from "./SkillsMatrix";
-import WorkExperience from "../components/WorkExperience";
-import Internships from "../components/Internships";
 import ProjectsGrid from "./ProjectsGrid";
+import WorkTimeline from "./WorkTimeline";
+import InternshipsTimeline from "./InternshipsTimeline";
+import ContactCard from "./ContactCard";
 
 export default function NewPortfolio() {
   return (
@@ -29,16 +29,16 @@ export default function NewPortfolio() {
           <SkillsMatrix />
         </SectionShell>
         <SectionShell id="work" title="Work Experience" subtitle="Professional experience and impact">
-          <WorkExperience />
+          <WorkTimeline />
         </SectionShell>
         <SectionShell id="internships" title="Internships" subtitle="Applied industry experience">
-          <Internships />
+          <InternshipsTimeline />
         </SectionShell>
         <SectionShell id="projects" title="Projects" subtitle="Selected projects and case studies">
           <ProjectsGrid />
         </SectionShell>
         <SectionShell id="contact" title="Contact" subtitle="Let's connect">
-          <Contact />
+          <ContactCard />
         </SectionShell>
       </main>
       <Footer />
