@@ -8,8 +8,8 @@ const internships = [
     location: "Pune, India",
     period: "Jul 2020 – Oct 2020",
     bullets: [
-      "Developed .NET and C# applications, enhancing data retrieval by 20% by creating query designs",
-      "Constructed PL/SQL queries to streamline transactions, improved system performance, reduced system load by 5%",
+      "Developed a multithreaded C# application to organize and migrate large folder trees (retry logic, checksum validation)",
+      "Refactored multi-step updates into a single atomic PL/SQL stored procedure (pre-checks, business rules, commit/rollback discipline); shortened commit path and eliminated inconsistent intermediate states",
       "Authored 7+ technical documents for software updates, ensuring smoother project transitions and easier handovers",
     ],
   },
@@ -20,8 +20,8 @@ const internships = [
     period: "Mar 2020 – Jun 2020",
     bullets: [
       "Automated post schedules using Google Apps Script, boosted efficiency, decreased manual workload by 25%",
-      "Leveraged script to optimize content distribution, enhanced social media reach, revised post errors by 20%",
-      "Integrated Microsoft Assets API and Facebook Graph API for posts cutting manual reconciliation time by 40%",
+      "Leveraged 5+ scripts to optimize content distribution, enhanced social media reach, revised post errors",
+      "Integrated Microsoft Assets API and Facebook Graph API for posts, cutting manual reconciliation time by 20%",
     ],
   },
 ];

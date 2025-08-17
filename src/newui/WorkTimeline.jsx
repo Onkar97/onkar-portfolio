@@ -8,9 +8,9 @@ const work = [
     location: "Pune, India",
     period: "Sep 2022 – Nov 2023",
     bullets: [
-      "Diagnosed and resolved high-priority production issues across .NET and SQL, increasing customer satisfaction by 15%",
-      "Partnered with cross-functional teams, identified root cause, and delivered fixes, reducing resolution time by 10%",
-      "Refactored and tuned SQL stored procedures to eliminate bottlenecks, gaining system functional performance by 12%",
+      "Triaged and resolved 600+ P1/P2 production issues across .NET services and MS SQL Server using structured logs and query plans; shipped 10 targeted hotfixes for major product bugs",
+      "Drove root–cause analysis of bugs with QA, translated findings into tested fixes, runbooks, and preventive checks, reducing mean time to resolution by 10%",
+      "Optimized T−SQL stored procedures and indexing (set-based rewrites, parameter-sniffing mitigation), improving p95 query latency and overall system throughput by 8%",
     ],
   },
   {
@@ -19,9 +19,9 @@ const work = [
     location: "Pune, India",
     period: "Nov 2020 – Aug 2022",
     bullets: [
-      "Deployed web applications on IIS Server, cutting downtime by 10% and improving system performance",
-      "Conducted SQL data analysis, debugging the production bugs that improved operational efficiency by 12%",
-      "Streamlined cross-team debugging reviews by introducing shared logs, reducing issue resolution time by 30%",
+      "Owned IIS deployments across environments (app pools, bindings, config transforms, warm-ups); reduced downtime by 12% and improved response consistency",
+      "Investigated production defects with targeted SQL analysis; authored safe data-correction scripts and stored-proc fixes, improving operational efficiency by 12%",
+      "Introduced a shared, structured logging convention and lightweight triage template for cross-team reviews; accelerated reproduction and diagnosis, cutting production issue resolution time by 10%",
     ],
   },
 ];
