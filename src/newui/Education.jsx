@@ -12,7 +12,7 @@ const schools = [
     school: "Northeastern University",
     location: "Boston, MA",
     degree: "M.S. in Software Engineering Systems",
-    period: "Sept 2024 – May 2026",
+    period: "Sept 2024 – Dec 2026",
     gpa: "3.6",
     coursework: [
       "Object-Oriented Programming",
