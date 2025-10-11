@@ -10,8 +10,15 @@ import img4 from "../assets/projects/img4.png";
 import img5 from "../assets/projects/img5.png";
 import img6 from "../assets/projects/img6.png";
 import img7 from "../assets/projects/img7.png";
+import img8 from "../assets/projects/img8.jpg";
 
 const projects = [
+  {
+    name: "InfraProvision",
+    desc: "Automated AWS Infrastructure Deployment using Terraform",
+    link: "https://github.com/Onkar97/InfraProvision-Automated-AWS-Infrastructure-Deployment",
+    img: img8,
+  },
   {
     name: "CertiLearn",
     desc: "Full-stack Spring Boot app for E-Learning & Certification System",
