@@ -21,9 +21,9 @@ const projects = [
     img: img8,
   },
   {
-    name: "Certi Learn",
+    name: "Certify Hub",
     desc: "Full-stack Spring Boot app for E-Learning & Certification System",
-    link: "https://github.com/Onkar97/Certi-Learn-E-Learning-Certification-System.git",
+    link: "https://github.com/Onkar97/Certify-Hub-E-Learning-Certification-System.git",
     img: img1,
   },
   {
