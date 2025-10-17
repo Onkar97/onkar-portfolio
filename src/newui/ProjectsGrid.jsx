@@ -11,48 +11,55 @@ import img5 from "../assets/projects/img5.png";
 import img6 from "../assets/projects/img6.png";
 import img7 from "../assets/projects/img7.png";
 import img8 from "../assets/projects/img8.png";
+import img9 from "../assets/projects/img9.jpg";
 
 const projects = [
   {
-    name: "InfraProvision",
+    name: "Infra Provision",
     desc: "Automated AWS Infrastructure Deployment using Terraform",
-    link: "https://github.com/Onkar97/InfraProvision-Automated-AWS-Infrastructure-Deployment",
+    link: "https://github.com/Onkar97/Infra-Provision-Automated-AWS-Infrastructure-Deployment",
     img: img8,
   },
   {
-    name: "CertiLearn",
+    name: "Certi Learn",
     desc: "Full-stack Spring Boot app for E-Learning & Certification System",
-    link: "https://github.com/Onkar97/CertiLearn-E-Learning-Certification-System.git",
+    link: "https://github.com/Onkar97/Certi-Learn-E-Learning-Certification-System.git",
     img: img1,
   },
   {
-    name: "DevSentiment",
+    name: "Veritas Vision",
+    desc: "AI-Generated vs. Real Image Detection",
+    link: "https://github.com/Onkar97/Veritas-Vision-Explainable-AI-for-Image-Authenticity.git",
+    img: img9,
+  },
+  {
+    name: "Dev Sentiment",
     desc: "Predicting Developer Job Satisfaction",
-    link: "https://github.com/Onkar97/DevSentiment-Predicting-Developer-Job-Satisfaction.git",
+    link: "https://github.com/Onkar97/Dev-Sentiment-Predicting-Developer-Job-Satisfaction.git",
     img: img2,
   },
   {
-    name: "NeuroVision",
+    name: "Neuro Vision",
     desc: "AI-Powered Alzheimer’s Progression Predictor using imaging & genetic data for early prediction",
-    link: "https://github.com/Onkar97/NeuroVision-AI-Powered-Alzheimer-s-Progression-Predictor.git",
+    link: "https://github.com/Onkar97/Neuro-Vision-AI-Powered-Alzheimer-s-Progression-Predictor.git",
     img: img3,
   },
   {
-    name: "SkillBridge",
+    name: "Skill Bridge",
     desc: "AI-Driven Job Portal for Smart Recruitment",
-    link: "https://github.com/Onkar97/SkillBridge-AI-Driven-Job-Portal-for-Smart-Recruitment.git",
+    link: "https://github.com/Onkar97/Skill-Bridge-AI-Driven-Job-Portal-for-Smart-Recruitment.git",
     img: img4,
   },
   {
-    name: "ChatterBox",
+    name: "Chatter Box",
     desc: "Socket.io chat with rooms, presence and moderation real-time location-based Chat Platform",
-    link: "https://github.com/Onkar97/ChatterBox-Real-Time-Location-Based-Chat-Platform.git",
+    link: "https://github.com/Onkar97/Chatter-Box-Real-Time-Location-Based-Chat-Platform.git",
     img: img5,
   },
   {
-    name: "SentimentSmith",
+    name: "Sentiment Smith",
     desc: "AI-Based Product Feedback Analyzer using NLP sentiment & aspect analytics on real-world reviews",
-    link: "https://github.com/Onkar97/SentimentSmith-AI-Based-Product-Feedback-Analyzer.git",
+    link: "https://github.com/Onkar97/Sentiment-Smith-AI-Based-Product-Feedback-Analyzer.git",
     img: img6,
   },
   {

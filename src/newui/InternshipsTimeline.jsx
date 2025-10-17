@@ -8,9 +8,9 @@ const internships = [
     location: "Pune, India",
     period: "Jul 2020 – Oct 2020",
     bullets: [
-      "Developed a multithreaded C# application to organize and migrate large folder trees (retry logic, checksum validation)",
-      "Refactored multi-step updates into a single atomic PL/SQL stored procedure (pre-checks, business rules, commit/rollback discipline); shortened commit path and eliminated inconsistent intermediate states",
-      "Authored 7+ technical documents for software updates, ensuring smoother project transitions and easier handovers",
+      "Developed a multithreaded C# application to automate the migration of over 2 TB of client data, incorporating checksum validation and retry logic to ensure data integrity and reduce manual migration efforts by 40 hours",
+      "Increased database reliability by refactoring a complex update process into a single atomic PL/SQL stored procedure, which eliminated 10% of data inconsistency errors and decreased transaction commit time by 15%",
+      "Authored 7+ comprehensive technical documents for new software releases, improving knowledge transfer efficiency by 20% and reducing onboarding time for new engineers by 10%",
     ],
   },
   {
@@ -19,9 +19,9 @@ const internships = [
     location: "Remote, India",
     period: "Mar 2020 – Jun 2020",
     bullets: [
-      "Automated post schedules using Google Apps Script, boosted efficiency, decreased manual workload by 25%",
-      "Leveraged 5+ scripts to optimize content distribution, enhanced social media reach, revised post errors",
-      "Integrated Microsoft Assets API and Facebook Graph API for posts, cutting manual reconciliation time by 20%",
+      "Engineered a social media automation tool using Go and Google Apps Script to schedule over 500 monthly posts, reducing the manual workload for the content team by 25% and increasing posting consistency",
+      "Used a content distribution service in Ruby on Rails that connected the Microsoft Assets and Facebook Graph APIs, automating user posts, and cutting manual data reconciliation time by 12%",
+      "Deployed 5+ custom scripts to optimize content delivery pipelines, which enhanced social media reach across three platforms and decreased post-publication errors by 15%",
     ],
   },
 ];

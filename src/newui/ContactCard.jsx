@@ -3,7 +3,7 @@ import { FiMail, FiPhone, FiLinkedin } from "react-icons/fi";
 
 export default function ContactCard() {
   const items = [
-    { label: "Email", value: "bhujbal.o@northeastern.edu", href: "mailto:bhujbal.o@northeastern.edu", Icon: FiMail },
+    { label: "Email", value: "onkarbhujbal95@gmail.com", href: "mailto:onkarbhujbal95@gmail.com", Icon: FiMail },
     { label: "Mobile", value: "(857) 339 - 8839", href: "tel:+18573398839", Icon: FiPhone },
     { label: "LinkedIn", value: "linkedin.com/in/onkar-bhujbal", href: "https://www.linkedin.com/in/onkar-bhujbal-385283242/", Icon: FiLinkedin },
   ];

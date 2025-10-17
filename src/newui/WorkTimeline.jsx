@@ -3,14 +3,14 @@ import { FiBriefcase, FiCalendar, FiMapPin } from "react-icons/fi";
 
 const work = [
   {
-    role: "Software Analyst",
+    role: "Associate Software Engineer",
     company: "Yardi Software India Pvt. Ltd.",
     location: "Pune, India",
     period: "Sep 2022 – Nov 2023",
     bullets: [
-      "Triaged and resolved 600+ P1/P2 production issues across .NET services and MS SQL Server using structured logs and query plans; shipped 10 targeted hotfixes for major product bugs",
-      "Drove root–cause analysis of bugs with QA, translated findings into tested fixes, runbooks, and preventive checks, reducing mean time to resolution by 10%",
-      "Optimized T−SQL stored procedures and indexing (set-based rewrites, parameter-sniffing mitigation), improving p95 query latency and overall system throughput by 8%",
+      "Integrated structured logging with AWS CloudWatch dashboards for real-time performance analysis, reducing mean time to resolution for 600+ P1/P2 production issues by 10%",
+      "Designed and implemented a CI/CD pipeline using GitHub Actions to automate builds, testing, and deployments for 10+ hotfixes, decreasing manual deployment errors by 7%",
+      "Enhanced the front-end architecture by developing and integrating over 20 reusable components using Angular and React, which improved application responsiveness by 15% and streamlined feature development",
     ],
   },
   {
@@ -19,9 +19,9 @@ const work = [
     location: "Pune, India",
     period: "Nov 2020 – Aug 2022",
     bullets: [
-      "Owned IIS deployments across environments (app pools, bindings, config transforms, warm-ups); reduced downtime by 12% and improved response consistency",
-      "Investigated production defects with targeted SQL analysis; authored safe data-correction scripts and stored-proc fixes, improving operational efficiency by 12%",
-      "Introduced a shared, structured logging convention and lightweight triage template for cross-team reviews; accelerated reproduction and diagnosis, cutting production issue resolution time by 10%",
+      "Decreased production deployment downtime by 12% and improved application response consistency by establishing a CI/CD pipeline with Jenkins to automate IIS environment configurations",
+      "Accelerated issue reproduction and cut production resolution time by 10% by introducing a structured logging convention and creating a centralized dashboard with an AWS-hosted ELK stack",
+      "Improved the performance and reliability of the IT Project Management tool by refactoring legacy C# code and optimizing database interactions, leading to 8% reduction in server response times",
     ],
   },
 ];
