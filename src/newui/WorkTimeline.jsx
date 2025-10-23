@@ -8,9 +8,9 @@ const work = [
     location: "Pune, India",
     period: "Sep 2022 – Nov 2023",
     bullets: [
-      "Integrated structured logging with AWS CloudWatch dashboards for real-time performance analysis, reducing mean time to resolution for 600+ P1/P2 production issues by 10%",
-      "Designed and implemented a CI/CD pipeline using GitHub Actions to automate builds, testing, and deployments for 10+ hotfixes, decreasing manual deployment errors by 7%",
-      "Enhanced the front-end architecture by developing and integrating over 20 reusable components using Angular and React, which improved application responsiveness by 15% and streamlined feature development",
+      "Integrated a structured logging framework in Node.js for microservices architecture, containerizing the service with Docker and integrating it with AWS CloudWatch to accelerate root cause analysis for over 600 production issues",
+      "Implemented a full CI/CD pipeline using GitHub Actions and Terraform to automate the build, testing, and deployment of Docker containers to AWS EC2, cutting manual configuration errors by 7%",
+      "Enhanced the front-end architecture, developing and integrating over 20 reusable components using JavaScript, Angular and React, which improved application responsiveness by 15%",
     ],
   },
   {
@@ -19,9 +19,9 @@ const work = [
     location: "Pune, India",
     period: "Nov 2020 – Aug 2022",
     bullets: [
-      "Decreased production deployment downtime by 12% and improved application response consistency by establishing a CI/CD pipeline with Jenkins to automate IIS environment configurations",
-      "Accelerated issue reproduction and cut production resolution time by 10% by introducing a structured logging convention and creating a centralized dashboard with an AWS-hosted ELK stack",
-      "Improved the performance and reliability of the IT Project Management tool by refactoring legacy C# code and optimizing database interactions, leading to 8% reduction in server response times",
+      "Deployed and maintained Java applications by building a CI/CD pipeline with Jenkins to automate IIS server deployment, decreasing production deployment downtime by 12%",
+      "Architected a real-time logging solution on AWS using the ELK stack to monitor high-traffic REST APIs, improving system observability and cutting production issue resolution time by 10%",
+      "Optimized a critical IT tool by re-engineering Spring Boot services and rewriting inefficient PL/SQL queries in MS SQL Server, leading to an 8% reduction in server response times for APIs serving JSON data",
     ],
   },
 ];
