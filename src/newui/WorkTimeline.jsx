@@ -9,7 +9,7 @@ const work = [
     period: "Sep 2022 – Nov 2023",
     bullets: [
       "Integrated a structured logging framework in Node.js for microservices architecture, containerizing the service with Docker and integrating it with AWS CloudWatch to accelerate root cause analysis for over 600 production issues",
-      "Implemented a full CI/CD pipeline using GitHub Actions and Terraform to automate the build, testing, and deployment of Docker containers to AWS EC2, cutting manual configuration errors by 7%",
+      "Constructed a full CI/CD pipeline using GitHub Actions, leveraging Packer to build standardized Amazon Machine Images and Terraform to automate the deployment of Docker containers to AWS EC2, cutting manual configuration errors by 7%",
       "Enhanced the front-end architecture, developing and integrating over 20 reusable components using JavaScript, Angular and React, which improved application responsiveness by 15%",
     ],
   },
