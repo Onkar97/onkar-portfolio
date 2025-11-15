@@ -8,9 +8,10 @@ const work = [
     location: "Pune, India",
     period: "Sep 2022 – Nov 2023",
     bullets: [
-      "Integrated a structured logging framework in Node.js for microservices architecture, containerizing the service with Docker and integrating it with AWS CloudWatch to accelerate root cause analysis for over 600 production issues",
-      "Constructed a full CI/CD pipeline using GitHub Actions, leveraging Packer to build standardized Amazon Machine Images and Terraform to automate the deployment of Docker containers to AWS EC2, cutting manual configuration errors by 7%",
-      "Enhanced the front-end architecture, developing and integrating over 20 reusable components using JavaScript, Angular and React, which improved application responsiveness by 15%",
+      "Developed centralized logging system using Node.js and Winston to aggregate logs from 10 microservices processing 2M+ daily requests, reducing mean time to debug production issues from 45 minutes to 12 minutes",
+      "Refactored monolithic React application into component library with 20+ reusable modules, reducing initial page load time by 15% for 1000+ monthly active users",
+      "Constructed GitHub Actions CI/CD pipeline with Terraform and Packer for AWS infrastructure deployment (EC2, S3, RDS, CloudWatch), increasing release frequency from 3 to 7 per week with automated deployment workflows",
+      "Streamlined observability through building 5 new CloudWatch dashboards and 12 critical alerts on Grafana, reducing mean time to acknowledge (MTTA) for P1 incidents by 20%"
     ],
   },
   {
@@ -19,9 +20,9 @@ const work = [
     location: "Pune, India",
     period: "Nov 2020 – Aug 2022",
     bullets: [
-      "Deployed and maintained Java applications by building a CI/CD pipeline with Jenkins to automate IIS server deployment, decreasing production deployment downtime by 12%",
-      "Architected a real-time logging solution on AWS using the ELK stack to monitor high-traffic REST APIs, improving system observability and cutting production issue resolution time by 10%",
-      "Optimized a critical IT tool by re-engineering Spring Boot services and rewriting inefficient PL/SQL queries in MS SQL Server, leading to an 8% reduction in server response times for APIs serving JSON data",
+      "Upgraded monolithic Java application into 5 Spring Boot microservices serving 10K+ daily transactions, reducing deployment downtime from 2 hours to 15 minutes and decreasing P1 incidents by 12%",
+      "Optimized SQL queries for analytics dashboards serving 500+ concurrent users during peak hours, improving query execution time by 27% through query refactoring, proper indexing, and data model improvements",
+      "Implemented containerized deployments using Docker, Kubernetes and Jenkins on AWS EC2, creating automated build pipelines that reduced environment setup time from 5 hours to 2 hours per environment",
     ],
   },
 ];

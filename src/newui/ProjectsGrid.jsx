@@ -15,8 +15,8 @@ import img9 from "../assets/projects/img9.jpg";
 
 const projects = [
   {
-    name: "Infra Provision",
-    desc: "Automated AWS Infrastructure Deployment using Terraform",
+    name: "Nexus Serve",
+    desc: "AWS Cloud-Native Full-Stack Automation Platform",
     link: "https://github.com/Onkar97/Infra-Provision-Automated-AWS-Infrastructure-Deployment",
     img: img8,
   },
