@@ -16,8 +16,8 @@ import img9 from "../assets/projects/img9.jpg";
 const projects = [
   {
     name: "Nexus Serve",
-    desc: "AWS Cloud-Native Full-Stack Automation Platform",
     link: "https://github.com/Onkar97/Infra-Provision-Automated-AWS-Infrastructure-Deployment",
+    desc: "AWS Cloud-Native Full-Stack Automation Platform",
     img: img8,
   },
   {

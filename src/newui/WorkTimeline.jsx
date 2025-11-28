@@ -6,7 +6,7 @@ const work = [
     role: "Associate Software Engineer",
     company: "Yardi Software India Pvt. Ltd.",
     location: "Pune, India",
-    period: "Sep 2022 – Nov 2023",
+    period: "Sep 2022 – Jul 2024",
     bullets: [
       "Developed centralized logging system using Node.js and Winston to aggregate logs from 10 microservices processing 2M+ daily requests, reducing mean time to debug production issues from 45 minutes to 12 minutes",
       "Refactored monolithic React application into component library with 20+ reusable modules, reducing initial page load time by 15% for 1000+ monthly active users",
