@@ -8,10 +8,10 @@ const work = [
     location: "Pune, India",
     period: "Sep 2022 – Jul 2024",
     bullets: [
-      "Developed centralized logging system using Node.js and Winston to aggregate logs from 10 microservices processing 2M+ daily requests, reducing mean time to debug production issues from 45 minutes to 12 minutes",
-      "Refactored monolithic React application into component library with 20+ reusable modules, reducing initial page load time by 15% for 1000+ monthly active users",
-      "Constructed GitHub Actions CI/CD pipeline with Terraform and Packer for AWS infrastructure deployment (EC2, S3, RDS, CloudWatch), increasing release frequency from 3 to 7 per week with automated deployment workflows",
-      "Streamlined observability through building 5 new CloudWatch dashboards and 12 critical alerts on Grafana, reducing mean time to acknowledge (MTTA) for P1 incidents by 20%"
+      "Architected modular React component library with 20+ reusable UI components and custom hooks, reducing initial page load time by 15% and improving development velocity across 3 product teams",
+      "Built centralized logging and monitoring service using Node.js and Winston to aggregate application logs from 10 microservices, reducing mean time to debug production issues from 45 minutes to 12 minutes",
+      "Created automated CI/CD pipeline using GitHub Actions with Docker containerization, enabling 7 production releases per week through automated testing and code quality checks",
+      "Implemented real-time alerting system with custom metrics collection using AWS CloudWatch for production monitoring, reducing mean time to acknowledge critical incidents by 20% through proactive notifications"
     ],
   },
   {
@@ -20,9 +20,10 @@ const work = [
     location: "Pune, India",
     period: "Nov 2020 – Aug 2022",
     bullets: [
-      "Upgraded monolithic Java application into 5 Spring Boot microservices serving 10K+ daily transactions, reducing deployment downtime from 2 hours to 15 minutes and decreasing P1 incidents by 12%",
-      "Optimized SQL queries for analytics dashboards serving 500+ concurrent users during peak hours, improving query execution time by 27% through query refactoring, proper indexing, and data model improvements",
-      "Implemented containerized deployments using Docker, Kubernetes and Jenkins on AWS EC2, creating automated build pipelines that reduced environment setup time from 5 hours to 2 hours per environment",
+      "Developed React dashboard with Redux and Material-UI for real-time project health monitoring across 300+ active projects, integrating RESTful APIs and automated PDF report generation to improve stakeholder visibility by 20%",
+      "Designed and built RESTful API services using Spring Boot for task management features, processing 10K+ daily transactions with input validation, error handling, and database transaction management",
+      "Optimized backend MS SQL Server query performance for analytics dashboards serving 500+ concurrent users, improving response time by 27% through database indexing, query refactoring, and caching strategies",
+      "Established automated testing framework with JUnit and Mockito integrated into Docker-based CI/CD pipelines on Kubernetes, achieving 85% code coverage and reducing production bugs by 30%"
     ],
   },
 ];
