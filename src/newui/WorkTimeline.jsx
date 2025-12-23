@@ -3,7 +3,7 @@ import { FiBriefcase, FiCalendar, FiMapPin } from "react-icons/fi";
 
 const work = [
   {
-    role: "Associate Software Engineer",
+    role: "Software Engineer",
     company: "Yardi Software India Pvt. Ltd.",
     location: "Pune, India",
     period: "Sep 2022 – Jul 2024",
