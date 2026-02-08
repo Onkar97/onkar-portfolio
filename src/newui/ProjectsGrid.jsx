@@ -12,7 +12,7 @@ import img6 from "../assets/projects/img6.png";
 import img7 from "../assets/projects/img7.png";
 import img8 from "../assets/projects/img8.png";
 import img9 from "../assets/projects/img9.jpg";
-import img10 from "../asets/projects/img10";
+import img10 from "../asets/projects/img10.jpg";
 
 const projects = [
   {
