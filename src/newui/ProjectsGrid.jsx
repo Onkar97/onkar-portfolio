@@ -12,8 +12,15 @@ import img6 from "../assets/projects/img6.png";
 import img7 from "../assets/projects/img7.png";
 import img8 from "../assets/projects/img8.png";
 import img9 from "../assets/projects/img9.jpg";
+import img10 from "../asets/projects/img10";
 
 const projects = [
+  {
+    name: "Code Atlas",
+    link: "https://github.com/Onkar97/Code-Atlas-Enterprise-AI-Architecture-Visualizer",
+    desc: "AI-Native Enterprise Architecture Visualizer",
+    img: img10,
+  },
   {
     name: "Nexus Serve",
     link: "https://github.com/Onkar97/Infra-Provision-Automated-AWS-Infrastructure-Deployment",
